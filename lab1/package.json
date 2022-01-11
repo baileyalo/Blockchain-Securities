@@ -1,0 +1,23 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "base64url": "^3.0.1",
+    "buffer": "^6.0.3",
+    "consumer": "^1.2.2",
+    "crypto": "^1.0.1",
+    "ethereumjs-util": "^7.1.3",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.1",
+    "keccak256": "^1.0.3",
+    "stream": "0.0.2"
+  }
+}

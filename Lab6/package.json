@@ -1,0 +1,17 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ether.js",
+  "scripts": {
+    "start": "node ether"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.1",
+    "ganache": "^6.4.5",
+    "ganache-cli": "^6.12.2",
+    "mnemonic": "^1.0.1"
+  }
+}
